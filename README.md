@@ -1,2 +1,3 @@
-# blog-examples
-A repository filled with code examples used in my blog articles.
+# Blog Examples
+
+This repository is filled with code examples used in my blog articles. Too see all my articles you can visit [DailyDev.io](https://dailydev.io).
