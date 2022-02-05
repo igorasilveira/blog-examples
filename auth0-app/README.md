@@ -2,7 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, copy the `.env.dist` file and rename it to `.env.local`. Copy your own project credentials on each line.
+
+Then, run the development server:
 
 ```bash
 npm run dev
